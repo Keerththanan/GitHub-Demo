@@ -38,3 +38,9 @@
  **Successfully you removed an unwanted file**
  
  ---
+
+## 3. Its time to do practice on Java Logics.
+- Clone or Pull
+- git checkout java-practice
+- Solve it and create a new branch named like **java-yourName** and push to that branch.
+---
