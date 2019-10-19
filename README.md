@@ -8,7 +8,7 @@
 - You should pull from remote to your local, Then only you won't get conflict.
   - git pull
 - If you get any conflict, first resolve it. **Carefully watch the changes**
-  - **Repeat from the first step.**
+  - **Repeat from the first step until you donn't get conflicts.**
 - Finally push your changes
   - git push
   
