@@ -15,7 +15,7 @@
 ---
 
 ## 2. Tips and Commands for easy use of GitHub.
-- If you done some changes in a **wrong branch** you can bring the changes to the **correct branch**, if you did not commit it. Try the following steps **CAREFULLY**.
+- If you have done some changes in a **wrong branch** you can bring the changes to the **correct branch**, if you did not commit it. Try the following steps **CAREFULLY**.
   1. Checkout master branch
       - git checkout master
   2. Do some changes in Test Document.
@@ -29,14 +29,20 @@
         
  **Successfully you brought the changes form master to final-try** 
  
+ 
+ 
  - If you add a wrong file accidently which has changes, you can remove it. Try the following steps.
     - git add <Changed wrong file name>
       - You are adding a wrong file which has changes.
     - git reset <Changed wrong file name>
       - You are removing the added wrong file.
-      
+  
  **Successfully you removed an unwanted file**
  
+ 
+ 
+  - If you want to pull only the bench changes (Not file changes) from the remote such as branch deletions/additions use the following command.
+    - git fetch -p
  ---
 
 ## 3. Its time to do practice on Java Logics.
