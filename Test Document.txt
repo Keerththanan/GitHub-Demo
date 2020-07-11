@@ -2,18 +2,11 @@ Kitty:
 	Summa oru vari
 	Virumpinaa innoru line add pannalaam
 
+Vageeshan:
+	  Java
+	  Lord Shiva
+	
 Thanan:
-	Naan thamilil ======= type panna maaddennn
-	Password set ====== panni kaadda venum.
-	Poda aandavane nama pakkam irukan...
-	This is a merge demo.
-	
-
-
-Mathan:
-	Hello Machan !!!
-Sajitha:
-	Once More Last Try!!
-vany:
-	hello d
-	
+	Conflict test#1
+	Conflict test#2
+	Conflict test#3
